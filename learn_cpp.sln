@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "auto_ptr", "auto_ptr\auto_ptr.vcxproj", "{E6D4659B-2727-48CF-ADE7-04D70398FE27}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "factory_pattern", "factory_pattern\factory_pattern.vcxproj", "{63BCF180-5420-43DB-AEE0-43CB0296D4E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D4659B-2727-48CF-ADE7-04D70398FE27}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6D4659B-2727-48CF-ADE7-04D70398FE27}.Debug|Win32.Build.0 = Debug|Win32
+		{E6D4659B-2727-48CF-ADE7-04D70398FE27}.Release|Win32.ActiveCfg = Release|Win32
+		{E6D4659B-2727-48CF-ADE7-04D70398FE27}.Release|Win32.Build.0 = Release|Win32
+		{63BCF180-5420-43DB-AEE0-43CB0296D4E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63BCF180-5420-43DB-AEE0-43CB0296D4E5}.Debug|Win32.Build.0 = Debug|Win32
+		{63BCF180-5420-43DB-AEE0-43CB0296D4E5}.Release|Win32.ActiveCfg = Release|Win32
+		{63BCF180-5420-43DB-AEE0-43CB0296D4E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
